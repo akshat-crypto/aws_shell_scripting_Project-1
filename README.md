@@ -1,4 +1,4 @@
-# Shell Scripting Using AWS ❤️ 
+# Shell Scripting Using AWS
 
 ### PROJECT DESCRIPTION
 <img width="795" alt="img1" src="https://user-images.githubusercontent.com/63901956/129894799-09997df4-5c41-4714-a056-55bbd22dee6e.png">
